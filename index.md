@@ -4,7 +4,7 @@ This is my home page! My name is David Avendano and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHUb page is http://github.com/David-Avendano.
+My GitHub page is http://github.com/David-Avendano.
 
 ### CPSC 120
 
